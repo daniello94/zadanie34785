@@ -1,0 +1,29 @@
+body {
+    background-color: crimson;
+}
+#tytul {
+    background-color: darkgoldenrod;
+    color: indigo;
+    
+}
+#tekst {
+
+    background-color:green;
+    color: darkblue;
+}
+#podtytul {
+background-color: maroon;
+color: mediumturquoise;
+
+}
+#opis {
+background-color: pink;
+color: red;
+
+
+}
+#dym {
+
+    background-color: salmon;
+    color: rgb(1, 11, 22);
+}
